@@ -10,7 +10,7 @@
 - <b>Nessus Essentials Vulnerability Scanner Setup</b>
   - [Performing credentialed vulnerability scans againsts Windows 10 hosts](https://github.com/joshmadakor1/Sentinel-Lab)
 
-- <b>Securing My Home Network (setup VLANS, segmentation, disable SSID)</b>
+- <b>Securing My Home Network</b>
   - [Setting up VLANS, network segmentation, disable SSID](https://github.com/joshmadakor1/EncrypterPOC)
 
 - <b>Snort IDS/IPS</b>
