@@ -17,7 +17,7 @@
   - [Set rules that define malicious network activity](https://www.youtube.com/watch?v=dkhlwMFmEmM)
 
 - <b>ZPhisher Phishing Demonstration</b>
-  -[Quick overview of how credentials can be stolen]
+  - [Quick overview of how credentials can be stolen](https://www.youtube.com/watch?v=dkhlwMFmEmM)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
