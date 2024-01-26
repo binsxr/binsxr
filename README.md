@@ -1,7 +1,7 @@
 <h1>Hi, I'm Nate! <br/><a 
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
 - <b>Setup a SIEM in Azure (Sentinel) </b>
   - [Failed RDP Logons Honeypot](https://www.youtube.com/watch?v=dkhlwMFmEmM)
