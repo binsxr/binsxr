@@ -19,7 +19,7 @@
 - <b>ZPhisher Phishing Demonstration (future project)</b>
   - [Quick overview of how credentials can be stolen](https://www.youtube.com/watch?v=dkhlwMFmEmM)
 - <b>PDQ Deploy (future project)</b>
-- [Remotely deploy and manage software installations across multiple computers in a network](https://www.youtube.com/watch?v=dkhlwMFmEmM)
+  - [Remotely deploy and manage software installations across multiple computers in a network](https://www.youtube.com/watch?v=dkhlwMFmEmM)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
