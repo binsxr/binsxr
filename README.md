@@ -21,7 +21,7 @@
 - <b>PDQ Deploy (future project)</b>
   - [Remotely deploy and manage software installations across multiple computers in a network](https://www.youtube.com/watch?v=dkhlwMFmEmM)
 
-   - <b>Cyber Kill Chain Presentation (future project)</b>
+- <b>Cyber Kill Chain Presentation (future project)</b>
   - [A step-by-step process that hackers may follow to carry out a cyber attack](https://www.youtube.com/watch?v=dkhlwMFmEmM)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
