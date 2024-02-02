@@ -4,13 +4,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <b>Live Honeypot, Setup a SIEM in Azure through Sentinel (future project) </b>
   - [Failed RDP Logons, attracted live attackers, triggered alerts](https://www.youtube.com/watch?v=dkhlwMFmEmM)
-  
-  - <b>Live Honeypot, Setup a SIEM in Azure through Sentinel (future project) </b>
-  - [Failed RDP Logons, attracted live attackers, triggered alerts](https://www.youtube.com/watch?v=dkhlwMFmEmM)
-  
-- <b>Live Honeypot, Setup a SIEM in Azure through Sentinel (future project) </b>
-  - [Failed RDP Logons, attracted live attackers, triggered alerts](https://www.youtube.com/watch?v=dkhlwMFmEmM)
-  - 
 - <b>Setup Virtual Active Directory Home Lab (pending upload) </b>
   - [Implementation of Windows DNS and DHCP services, added users and set group policies, used custom powershell script to automate account creation](https://www.youtube.com/watch?v=dkhlwMFmEmM) <b><i></b></i>
 - <b>Nessus Essentials Vulnerability Scanner Setup</b>
