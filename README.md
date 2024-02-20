@@ -4,9 +4,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Setup Identity Federation between Okta and Azure Active Directory (future project) </b>
-  - [Configure SSO settings in both Okta and Azure AD to establish trust between the two platforms.](https://www.youtube.com/watch?v=dkhlwMFmEmM)
+  - [Configure Single Sign-on (SSO) settings in both Okta and Azure AD to establish trust between the two platforms](https://www.youtube.com/watch?v=dkhlwMFmEmM)
 - <b>Automate Employee Onboarding in Azure Active Directory (future project) </b>
-  - [Automating the joiner process, used Power automate to pull information from Microsoft Forms to collect important staff information](https://www.youtube.com/watch?v=dkhlwMFmEmM)
+  - [Automated the joiner process, used Power Automate to pull information from Microsoft Forms to collect important staff information](https://www.youtube.com/watch?v=dkhlwMFmEmM)
 <b><i></b></i>
 - <b>Nessus Essentials Vulnerability Scanner Setup</b>
   - [Performed vulnerability scans to identify vulnerabilities and remediate risks on Windows 10 hosts](https://www.youtube.com/watch?v=dkhlwMFmEmM)
