@@ -3,8 +3,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Setup Federation between Okta and Azure (future project) </b>
-  - [Configure SSO settings in both Okta and Azure AD to establish trust between the two platforms. Specify the necessary endpoints, protocols, and certificates for secure communication](https://www.youtube.com/watch?v=dkhlwMFmEmM)
+- <b>Setup Identity Federation between Okta and Azure Active Directory (future project) </b>
+  - [Configure SSO settings in both Okta and Azure AD to establish trust between the two platforms.](https://www.youtube.com/watch?v=dkhlwMFmEmM)
 - <b>Automate Employee Onboarding in Azure Active Directory (future project) </b>
   - [Automating the joiner process, used Power automate to pull information from Microsoft Forms to collect important staff information](https://www.youtube.com/watch?v=dkhlwMFmEmM)
 <b><i></b></i>
