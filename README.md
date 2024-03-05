@@ -9,8 +9,6 @@
   - [Used Power Automate to pull information from Microsoft Forms to integrate new employee information to create users and put them in appropriate groups in Entra ID](https://www.youtube.com/watch?v=XnkPb_ZaJrY)
 <b><i></b></i>
 
-- <b>Setup MFA in Entra ID (future project)</b>
-  - [Phishing Attack done on employee, MFA setup preventing attacker from logging in](https://www.youtube.com/watch?v=dkhlwMFmEmM)
 - <b>Nessus Essentials Vulnerability Scanner Setup</b>
   - [Performed vulnerability scans to identify vulnerabilities and remediate risks on Windows 10 hosts](https://www.youtube.com/watch?v=dkhlwMFmEmM)
 
