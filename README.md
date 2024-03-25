@@ -5,8 +5,7 @@
 
 - <b>Identity Federation between Okta and Entra ID and Servicenow SSO Integration using SAML 2.0 </b>
   - [Configured SAML 2.0 Single Sign-on (SSO) settings in both Okta and Entra ID, Implemented Servicenow Integration in Okta](https://www.youtube.com/watch?v=mefp0CVd76k)
-- <b>Joiner Process Automated Employee Onboarding HR System in Entra ID - User Lifecycle Management
- </b>
+- <b>Joiner Process Automated Employee Onboarding HR System in Entra ID - User Lifecycle Management </b>
   - [Utilized Microsoft Power Automate to pull information from Microsoft Forms to integrate new employee information to create users and put them in appropriate groups in Entra ID](https://www.youtube.com/watch?v=XnkPb_ZaJrY)
 <b><i></b></i>
 
