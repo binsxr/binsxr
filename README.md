@@ -1,7 +1,7 @@
 <h1>Hi, I'm Nate! <br/><a 
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> IT Projects:</h2>
 
 - <b>Identity Federation between Okta and Entra ID and Servicenow SSO Integration using SAML 2.0 </b>
   - [Configured SAML 2.0 Single Sign-on (SSO) settings in both Okta and Entra ID, Implemented Servicenow Integration in Okta](https://www.youtube.com/watch?v=mefp0CVd76k)
