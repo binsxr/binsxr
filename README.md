@@ -8,7 +8,7 @@
  
 
 - <b>Servicenow ITSM</b>
-  - [An introduction to ServiceNow ITSM and it's Business Use cases ](https://youtu.be/K6Q4ayNiyg4)
+  - [An introduction to ServiceNow ITSM and it's Business Use cases](https://youtu.be/K6Q4ayNiyg4)
 
 - <b>Identity Federation between Okta and Entra ID and Servicenow SSO Integration using SAML 2.0 </b>
   - [Configured SAML 2.0 Single Sign-on (SSO) settings in both Okta and Entra ID, Implemented Servicenow Integration in Okta](https://www.youtube.com/watch?v=mefp0CVd76k)
