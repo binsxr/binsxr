@@ -3,6 +3,13 @@
 
 <h2> IT Projects:</h2>
 
+- <b>Security Awareness Training and Phishing Campaign</b>
+  - [A proposal to address phishing-related security breaches, this proposal recommends launching a phishing email campaign, explaining how to respond to them, and providing security awareness training](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/nsitom5_wgu_edu/IQBL2T75CoW1SIcHvcxP9F3LAWAvXe9UHcUajzPCtTTkrYY?e=EHcjOf)
+ 
+
+- <b>Servicenow ITSM</b>
+  - [An introduction to ServiceNow ITSM and it's Business Use cases ](https://youtu.be/K6Q4ayNiyg4)
+
 - <b>Identity Federation between Okta and Entra ID and Servicenow SSO Integration using SAML 2.0 </b>
   - [Configured SAML 2.0 Single Sign-on (SSO) settings in both Okta and Entra ID, Implemented Servicenow Integration in Okta](https://www.youtube.com/watch?v=mefp0CVd76k)
 - <b>Joiner Process Automated Employee Onboarding HR System in Entra ID - User Lifecycle Management </b>
